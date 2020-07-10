@@ -5,6 +5,9 @@
 
 [![HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)](http://hits.dwyl.com/yash982000/yash982000)
 
+
+[!HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
