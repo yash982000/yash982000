@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)Hi there 👋
 
 <!--
 **yash982000/yash982000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 [![HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)](http://hits.dwyl.com/yash982000/yash982000)
 
 
-[!HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)
+
 
 Here are some ideas to get you started:
 
