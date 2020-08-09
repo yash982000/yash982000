@@ -7,7 +7,7 @@
 
 Loading... some awesome ideas to go here, check back again in some time  
          
-
+  
 <!--Here are some ideas to get you started:
 
 <!--🔭 I’m currently working on ...
@@ -33,7 +33,7 @@ Loading... some awesome ideas to go here, check back again in some time
 ![Waka Readme](https://github.com/yash982000/yash982000/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+  
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
