@@ -75,13 +75,9 @@ const anmol = {
 
 <!--> 📦 Used 292.4 kB in GitHub's Storage 
  > 
-//> 💼 Opted to Hire
  > 
-> 📜 25 Public Repository 
- > 
-> 🔑 15 Owned Private Repository 
-
-
+> 📜 29 Public Repository 
+ >
 <!--**I'm a night 🦉** 
 
 ```
