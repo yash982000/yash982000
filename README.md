@@ -27,7 +27,7 @@ Loading... some awesome ideas to go here, check back again in some time
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>ICT Student at <a href="https://ahduni.edu.in/">Ahmedabad University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
+  
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)-->
 [![Linkedin: thaianebraga](https://img.shields.io/badge/yash-patel-970517166?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-patel-970517166/)](https://www.linkedin.com/in/yash-patel-970517166/)
 <!--![GitHub followers](https://img.shields.io/github/followers/yash982000?label=Follow&style=social)
