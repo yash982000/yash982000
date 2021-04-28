@@ -1,5 +1,5 @@
 ### ![Profile Views](http://hits.dwyl.com/yash982000/yash982000.svg) Hi there 👋
-![](https://komarev.com/ghpvc/?username=yash982000)
+<!--![](https://komarev.com/ghpvc/?username=yash982000)
 ![Visitor Count](https://profile-counter.glitch.me/{yash982000}/count.svg)
   
 --
