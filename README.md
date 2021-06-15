@@ -1,7 +1,7 @@
 ### ![Profile Views](http://hits.dwyl.com/yash982000/yash982000.svg) Hi there 👋
 ![](https://komarev.com/ghpvc/?username=yash982000)
 ![Visitor Count](https://profile-counter.glitch.me/{yash982000}/count.svg)
-  
+    
 **yash982000/yash982000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)](http://hits.dwyl.com/yash982000/yash982000)
@@ -21,7 +21,7 @@ Loading... some awesome ideas to go here, check back again in some time
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --  -->
-        
+         
   
     
 <h2>नमस्ते (Namaste)🙏🏻, I'm Yash R Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
