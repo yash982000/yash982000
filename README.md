@@ -108,7 +108,7 @@ const anmol = {
 <!--![Chart not found](https://github.com/yash982000/yash982000/blob/master/charts/bar_graph.png) 
  
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->      
 
 
 <!--**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/yash982000/waka-readme-stats)**
