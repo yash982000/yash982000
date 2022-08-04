@@ -9,7 +9,6 @@
 Loading... some awesome ideas to go here, check back again in some time  
   
             
-   
 <!--Here are some ideas to get you started:     
     
 <!--🔭 I’m currently working on ...  
