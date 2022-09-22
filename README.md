@@ -7,7 +7,6 @@
 [![HitCount](http://hits.dwyl.com/yash982000/yash982000.svg)](http://hits.dwyl.com/yash982000/yash982000)
 
 Loading... some awesome ideas to go here, check back again in some time  
-  
              
 <!--Here are some ideas to get you started:     
     
