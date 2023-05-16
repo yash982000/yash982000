@@ -18,8 +18,7 @@ Loading... some awesome ideas to go here, check back again in some time
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---  -->
-          
+--  -->     
   
         
 <h2>नमस्ते (Namaste)🙏🏻, I'm Yash R Patel! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
